@@ -1,0 +1,28 @@
+헤더영역
+width:100%
+height:80px
+
+네비게이션 gap padding 양끝에 35px
+
+로고 맨좌측 고정
+네비게이션 메인버튼 7개 가운데 고정 / font-size 14px
+돋보기 맨 우측 고정 width:17px ; height:19px
+
+이벤트 마우스 휠
+*마우스 휠 올리면 헤더영역 보이고
+ 내리면 안보임
+
+
+섹션1
+width:100% ; height:1080px
+
+
+섹션2
+width:100%; height:1021px / 761px 에서 패딩 130
+width:1170px ; height:516px / padding 15px 
+box-1 width:1170px ; hieght:356 / width 마진 15px
+box-2 width:1170px ; hieght:160 / width 마진 15px
+
+
+
+
