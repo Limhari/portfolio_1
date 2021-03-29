@@ -323,14 +323,16 @@
 
 
     /* 섹션6 */
-    #wrap #main #section6 .wrap > .gap .container {width:100%;height:auto;}  
+    #wrap #main #section6 {width:100%;height:129.2vw;}
+    /* #wrap #main #section6 {width:100%;height:129.2vw;} */
+    /* #wrap #main #section6 .wrap > .gap .container {width:100%;height:auto;}   */
     #wrap #main #section6 .wrap > .gap .container .play-content {width:90%;height:auto;margin:0 auto;}
     #wrap #main #section6 .wrap > .gap .container .play-content .play-content-gap {margin:0 auto;}
 
 
 
     /* 섹션7 */
-    #wrap #main #section7 .wrap > .gap .container {width:100%;margin-top:0px;}
+    #wrap #main #section7 .wrap > .gap .container {width:100%;margin-top:-66.66666667vw;}
 
 
 
